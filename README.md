@@ -39,7 +39,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RenaldiGH&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RenaldiGH&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RenaldiGH&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-profile-alpha.vercel.app/api/top-langs/?username=RenaldiGH&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
