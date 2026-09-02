@@ -35,8 +35,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenaldiGH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenaldiGH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RenaldiGH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RenaldiGH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -44,7 +44,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RenaldiGH&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=RenaldiGH&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -68,7 +68,7 @@
 <details>
 <summary>🎯 Klik untuk lihat statistik detail (private repo included)</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RenaldiGH&theme=tokyonight&hide_border=true" alt="Detailed Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=RenaldiGH&theme=tokyonight&hide_border=true" alt="Detailed Stats" />
 </details>
 
 ---
