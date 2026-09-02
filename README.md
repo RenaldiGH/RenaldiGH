@@ -35,8 +35,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RenaldiGH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RenaldiGH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=RenaldiGH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RenaldiGH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -54,9 +54,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/RenaldiGH/RenaldiGH/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-> ⚙️ Aktifkan animasi ular ini dengan menambahkan GitHub Action `Platane/snk` di repo profil kamu (`RenaldiGH/RenaldiGH`) — lihat penjelasan di bawah.
-
 ---
 
 <details>
@@ -68,7 +65,7 @@
 <details>
 <summary>🎯 Klik untuk lihat statistik detail (private repo included)</summary>
 <br>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=RenaldiGH&theme=tokyonight&hide_border=true" alt="Detailed Stats" />
+<img src="https://github-stats-extended.vercel.app/api/wakatime?username=RenaldiGH&theme=tokyonight&hide_border=true" alt="Detailed Stats" />
 </details>
 
 ---
